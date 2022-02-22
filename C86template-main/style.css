@@ -1,0 +1,16 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas
+{
+    border-width: 10px;
+    border-style: dashed;
+    border-color: aqua;
+    background-color: white;
+    /* background-image: linear-gradient(red, yellow); */
+   
+}
+
